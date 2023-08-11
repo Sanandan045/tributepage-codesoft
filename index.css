@@ -1,0 +1,28 @@
+*{
+    font-family: verdana;
+  }
+  h1{
+    text-align:center;
+  }
+  #img-div{
+    text-align:center;
+    width: 100%;
+    margin: auto;
+  }
+  #image{
+    width: 30%;
+    max-width: 30%;
+    display: block;
+    margin: auto;
+    height: auto;
+  }
+  #tribute-info{
+    margin-top: 40px;
+    text-align: justify;
+    margin-left: 10%;
+    margin-right: 10%;
+    line-height: 30px;
+  }
+  li{
+    margin-bottom: 10px;
+  }
